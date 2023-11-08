@@ -1,5 +1,5 @@
 create DATABASE integrador_cac;
-use DATABASE integrador_cac;
+USE integrador_cac;
 CREATE TABLE oradores(
     id_orador INT auto_increment PRIMARY KEY,
     nombre VARCHAR(25) NOT NULL,
