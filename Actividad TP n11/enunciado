@@ -1,14 +1,11 @@
-TP integrador BD
-Grupos separados: Comisión 23545
- Trabajo Práctico Integrador Base de Datos
+Tarea Obligatoria Unidad n°11
 
-Se deberá crear una base de datos llamada “integrador_cac” y crear la siguiente tabla llamada “oradores”:
+1) Crea una base de datos con la siguiente estructura
 
-  
 
-Definir los tipos de datos correspondientes
-Definir la clave primaria correspondiente
-Definir las restricciones correspondientes
-Insertar 10 registros
-Hacer un backup de la base de datos
-La entrega deberá ser subiendo el Backup de la base de datos, una captura de la estructura de la tabla y una captura de los registros insertados a un repositorio de Github y luego compartir el enlace.
+
+2) ingresa 5 registros
+
+3)hacer un back up de la base de datos creada
+
+Para la entrega deberás mandar captura de la base de datos con los registros insertados, además del back up en un archivo comprimido
